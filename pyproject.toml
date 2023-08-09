@@ -28,7 +28,7 @@ pyvis = "^0.3.2"
 selenium = "^4.11.2"
 agent-protocol = "^0.2.3"
 baserun = "^0.3"
-agent-protocol-client = "^0.2.0"
+agent-protocol-client = "^0.2.1"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^3.9.2"
